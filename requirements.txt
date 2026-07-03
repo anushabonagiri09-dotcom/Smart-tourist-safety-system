@@ -2,3 +2,5 @@ streamlit
 google-generativeai
 python-dotenv
 streamlit-js-eval
+folium
+streamlit-folium
